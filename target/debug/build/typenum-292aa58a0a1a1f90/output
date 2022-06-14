@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Volumes/Data/Work/Blockchain/rust/hedge-bot/target/debug/build/typenum-292aa58a0a1a1f90/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Volumes/Data/Work/Blockchain/rust/hedge-bot/target/debug/build/typenum-292aa58a0a1a1f90/out/op.rs
